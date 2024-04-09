@@ -17,5 +17,5 @@ Vous embarquez le post-it dans vos affaires et vous dirigez donc à présent ver
 
 # Travaux
 - [Nettoyage des données](DataClean.ipynb)
-- [Analyse de donnée](analysis)
+- [Analyse de donnée](analysis.ipynb)
 - [Programme](program.ipynb)
